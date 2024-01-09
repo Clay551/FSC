@@ -49,10 +49,19 @@
 decode : 
 
 MD5
+
+
 SHA1
+
+ 
 SHA-256
+
+
 SHA-384
+
+
 SHA-512
+
 
 encode
 
