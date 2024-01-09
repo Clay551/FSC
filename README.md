@@ -13,15 +13,35 @@
  
 
 ➞ Admin Page Finder
+
+
 ➞ Robots Scanner
+
+
 ➞ DNS Lookup
+
+
 ➞ Whois
+
+
 ➞ Find Shared DNS
+
+
 ➞ Show HTTP Header
+
+
 ➞ IP location Finder
+
+
 ➞ Port Scan
+
+
 ➞ Bypass Cloud Flare
+
+
 ➞ Revers IP
+
+
 ➞ Full Lookup
 
 ## hashing
